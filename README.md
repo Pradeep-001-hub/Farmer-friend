@@ -44,11 +44,8 @@ Built for real-world conditions in regions like **Andhra Pradesh** (Guntur, Kris
 
 ---
 
-## 📊 System Architecture
 
-![AgriGuard System Architecture](architecture.png)
 
-*(Multi-Factor inputs → Decision Engine → Pump Control)*
 
 ---
 
